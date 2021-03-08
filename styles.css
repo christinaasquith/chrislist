@@ -35,3 +35,6 @@ form button:hover{
     background: #c065c0;
     color: white;
 }
+.todo_list {
+     color: blue;
+}
